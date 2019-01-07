@@ -2,9 +2,8 @@
 
 [![Source](https://cdn-storage.github.io/images/badges/info.source.svg)](https://github.com/metainfo/bans)
 [![Changelog](https://cdn-storage.github.io/images/badges/info.changelog.svg)](CHANGELOG.md)
-[![Code of Conduct](https://cdn-storage.github.io/images/badges/coc.en.svg)](CODE_OF_CONDUCT.en.md)
-[![Code of Conduct](https://cdn-storage.github.io/images/badges/coc.ru.svg)](CODE_OF_CONDUCT.ru.md)
-[![Contributing](https://cdn-storage.github.io/images/badges/info.contributing.svg)](CONTRIBUTING.md)
+[![Code of Conduct](https://cdn-storage.github.io/images/badges/info.coc.svg)](https://metainfo.github.io/coc/)
+[![Contributing](https://cdn-storage.github.io/images/badges/info.contributing.svg)](https://metainfo.github.io/contributing/)
 [![Authors](https://cdn-storage.github.io/images/badges/info.authors.svg)](AUTHORS)
 [![Issues](https://cdn-storage.github.io/images/badges/info.issues.svg)](https://github.com/metainfo/bans/issues)
 [![License](https://cdn-storage.github.io/images/badges/license.gpl-3.0.svg)](LICENSE)
