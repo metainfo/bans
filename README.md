@@ -12,10 +12,3 @@
 [![By METADATA](https://cdn-storage.github.io/images/badges/by.metadata.svg)](https://metadata.foundation/)
 
 Список заблокированных участников на социальных проектах [**METADATA**](https://metadata.foundation/).
-
-## Образец
-
-```
-Discord ID:
-Причина блокировки:
-```
